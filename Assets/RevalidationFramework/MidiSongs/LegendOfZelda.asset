@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 432ca009b44f35145823199d4be2f72c, type: 3}
+  m_Name: LegendOfZelda
+  m_EditorClassIdentifier: 
+  SongName: Zelda Main Theme
+  ArtistName: Nintendo
+  _midiAsset: {fileID: 4900000, guid: 0bd5172a85e8e12449b37b63e67d357a, type: 3}
+  BPM: 92
